@@ -1,0 +1,9 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 本地产物
+*.log
+com.solo.browser_bridge.edge.json
+com.solo.browser_bridge.chrome.json

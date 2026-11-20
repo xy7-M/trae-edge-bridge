@@ -1,0 +1,9 @@
+{
+  "name": "com.solo.browser_bridge",
+  "description": "TRAE SOLO Browser Bridge - Chrome Native Messaging Host",
+  "type": "stdio",
+  "path": "__BRIDGE_EXE__",
+  "allowed_origins": [
+    "chrome-extension://__EXTENSION_ID__/"
+  ]
+}
